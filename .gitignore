@@ -1,0 +1,15 @@
+public class Polindrom {
+    public static void main (String [] args)
+    {
+       /* char chars1[]={'s','t', 'r', 'i', 'n', 'g'};
+        char chars2[]={'g','n', 'i','r','t','s'};
+      String s1= new String(chars1);
+      String s2= new String(chars2);
+       System.out.println(s2 + "->" + s1.equals(s2)+ " ne polendrom"); */
+
+       String s1="string";
+       String s2="gnirts";
+        System.out.print(s1+ " -> " + s1.equals(s2) + " ne polendrom");
+
+    }
+}
