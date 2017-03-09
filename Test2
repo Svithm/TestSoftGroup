@@ -1,0 +1,15 @@
+public class test {
+    public static void main(String[] args) {
+        int[] A =new int[2];
+        for (int i = 0; i < A.length; i++) {
+            int i1 = A[i];
+
+            for (int j = 0; j < A.length; j++) {
+                int i2 = A[j];
+                System.out.println();  //TODO так и непонял как решить
+            }
+        }
+
+
+    }
+
